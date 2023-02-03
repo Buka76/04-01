@@ -12,4 +12,5 @@ int main(){
 	pen.color = "FFFFFF";
 	cout << "pen.color = " << pen.color << endl;
 	return 0;
+	
 }
